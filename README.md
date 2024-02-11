@@ -11,8 +11,8 @@ Key Points:
 1) KPI's: Four different KPI's for Total Sales, Total Cost, Total Quantity and Total Profit.
    
 2) SLICER: Here I use 2 differnt slicers.
-   a) For Years: It used to see the data year wise.
-   b) For Supervisor: It is used to filter data according every individual supervisor and also add images with their supervisor names.
+a) For Years: It used to see the data year wise.
+b) For Supervisor: It is used to filter data according every individual supervisor and also add images with their supervisor names.
    
 3) DONUT CHART: It is used to see the sales according to the individual products.
    
